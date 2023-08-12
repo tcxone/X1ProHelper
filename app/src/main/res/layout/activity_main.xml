@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	android:background="#FFEEF3E0">
+
+	<Button
+		android:id="@+id/button1"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="原装设置"
+		android:background="#FFF96464"/>
+
+	<Button
+		android:id="@+id/button2"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="开发者模式（异常）"
+		android:background="#FFD9BB4A"/>
+
+	<Button
+		android:id="@+id/button3"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="无障碍"
+		android:background="#FFE8E2A6"/>
+
+	<Button
+		android:id="@+id/button4"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="证书"
+		android:background="#FFCDE5AF"/>
+
+	<Button
+		android:id="@+id/button5"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="VPN"
+		android:background="#FF99E2E6"/>
+
+	<Button
+		android:id="@+id/button6"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="应用上层（异常）"
+		android:background="#FF6379AE"/>
+
+	<Button
+		android:id="@+id/button7"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="默认应用"
+		android:background="#FFCB72C6"/>
+
+	<Button
+		android:id="@+id/button8"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="版本"
+		android:background="#FFAF5797"/>
+
+</LinearLayout>
+
